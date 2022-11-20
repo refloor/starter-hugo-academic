@@ -7,27 +7,27 @@ widget: features
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 80
 
-title: Skills
+title: Membership
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+  - description: Student Member
+    icon: ieee
+    icon_pack: custom
+    name: IEEE
+  - description: Student Member
+    icon: acm
+    icon_pack: custom
+    name: ACM
+  - description: Student Member
+    icon: ccf
+    icon_pack: custom
+    name: CCF
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
@@ -43,3 +43,4 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
+
