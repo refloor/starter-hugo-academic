@@ -10,7 +10,7 @@ title: Meng-zhe Qiu
 superuser: true
 
 # Role/position/tagline
-role: Bachelor Degree
+role: Undergraduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,9 +22,9 @@ bio: My research interests include deep learning, interpretability and medical i
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Interpretability
+  - Medical Image
 
 # Education to show in About widget
 education:
@@ -44,22 +44,33 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:refloor0@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/MengzheQiu
     label: Follow me on Twitter
     display:
-      header: true
+      header: false
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.hk/citations?user=KSUSmmkAAAAJ
+    display:
+      header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/refloor
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/
+  - icon: zhihu
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.zhihu.com/people/bo-yu-92-76
+  - icon: kaggle
+    icon_pack: fab
+    link: https://www.kaggle.com/mengzheqiu
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/my-orcid?orcid=0000-0002-5166-4697
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -69,12 +80,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'rfloor0@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-A bachelor balabalabalabalab alabalabalabalabalabalabala balabalabalabalabalab alabalabal abalabala balabalabala
+I am a fourth-year bachelor Student in Computer Science & Technology at Shaanxi Technology and Science University(SUST).  I participated in the SUST's cooperation academic project with **Ulster University**, and expected **double Bachelor of Science** in July.2023
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+During my period of undergraduate, I published **three journal articles** in Science Citation Index and Engineering Index. Among them, **as the first student author, I have published an article in SCI Q1 and an article in SCI Q2**. Moreover, I have published an article in EI as the second student author. 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

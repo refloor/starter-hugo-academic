@@ -11,7 +11,7 @@ authors:
 - Tian Wang
 author_notes:
 - ""
-- "Equal contribution"
+- "First Student Author"
 date: "2022-12-04T00:00:00Z"
 doi: "10.1016/j.ceramint.2022.08.033"
 
@@ -31,7 +31,10 @@ publication_short: ""
 abstract: In ancient times, the ceramic production process was state-of-the-art technology. The study of ancient ceramics is of profound significance in exploring the development and history of technology. Black glazed wares from Jian kilns were very popular ware during the Song Dynasty. However, a great deal of a priori knowledge is required for classifying and studying ancient ceramics. Here, we apply deep learning to classify black glazed wares from adjacent kilns with a minimum distance of one kilometer. Then an end-to-end classification toolkit is proposed to assist ceramic classification. The toolkit uses the Fully Convolutional Network (FCN) to capture the relationship between the chemical compositions for analyzing inheritance relationships between black glazed wares. The experiments use Matthews Correlation Coefficients(MCC) to provide a comprehensive evaluation of the classification results, and Smooth Gradients to explore the influence of chemical compositions in the body and glaze during the decision-making process. The datasets used for the experiment are 84 samples of black glazed wares from three kilns of Jian kilns. Furthermore, each sample using EDXRF obtains 10 chemical compositions each from the body and glaze, it consists of 7 major elements and 3 trace elements. Under 20-fold cross-validation, a Fully Convolution Network performed excellently after comparing five typical machine learning algorithms, with accuracy and MCC is 92.76% and 89.14%. Furthermore, we use correspondence analysis to explore the distribution of the ware’s chemical compositions from different kilns.
 
 # Summary. An optional shortened abstract.
-summary: In ancient times, the ceramic production process was state-of-the-art technology.
+summary: |
+      1. Proposed an end-to-end classification toolkit base on 1D-convolution network for ancient ceramics.
+      2. Applied the MCC evaluation metric to comprehensively evaluate the model prediction ability, with the classification accuracy and MCC for the three black glaze wares is 92.76% and 89.14%.\
+      3. Used smooth gradients to explore the effect of chemical composition on the prediction of black glaze wares.
 
 tags:
 - Source Themes
@@ -40,8 +43,8 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://drive.google.com/file/d/107bd7D23QhPMV6SGt6cniJLzsO48tNZk/view?usp=share_link
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -68,6 +71,6 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 

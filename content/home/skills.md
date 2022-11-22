@@ -1,46 +1,38 @@
 ---
-# An instance of the Featurette widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: features
+# An instance of the Tag Cloud widget.
+# Docs: https://wowchemy.com/docs/page-builder/
+widget:  markdown
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 35
 
-title: Membership
-subtitle:
+title: Technical Skills
+subtitle: ''
 
-# Showcase personal skills or business features.
-# - Add/remove as many `feature` blocks below as you like.
-# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-  - description: Student Member
-    icon: ieee
-    icon_pack: custom
-    name: IEEE
-  - description: Student Member
-    icon: acm
-    icon_pack: custom
-    name: ACM
-  - description: Student Member
-    icon: ccf
-    icon_pack: custom
-    name: CCF
-# Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"
-
-# Uncomment to use custom SVG icons.
-# Place your custom SVG icon in `assets/media/icons/`.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+content:
+  # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
+  # taxonomy: tags
+  # Choose how many tags you would like to display (0 = all tags)
+  # count: 1
+design:
+  # Minimum and maximum font sizes (1.0 = 100%).
+  # font_size_min: 0.7
+  # font_size_max: 2.0
 ---
 
+Programming Languages: **Python, C++/ C, R**, Java, Html
+
+Machine Learning Tools:  **PyTorch, Scikit-learn, Monai, Captum**
+
+Document Processing:  **LaTeX, MarkDown**
+
+Development: **Qt, Web**
+
+Operation System: **Linux, Windows**, Mac OS
+
+Database: **MongoDB, NoSQL, MySQL**
+
+Others: **Web Spider, Adobe Illustrator**
