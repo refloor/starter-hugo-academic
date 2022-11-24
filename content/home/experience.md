@@ -30,7 +30,7 @@ experience:
     date_start: '2019-08-01'
     date_end: ''
     description: |2-
-        GPA: 3.43 / 5.00 (Top 10%)
+        GPA: 3.43 / 5.00 ( **9/93, Top 10%** )
 
   - title: B.S. in Computer Science and Technology
     company: Ulster University

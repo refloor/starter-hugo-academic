@@ -86,8 +86,8 @@ email: 'rfloor0@gmail.com'
 highlight_name: true
 ---
 
-I am a fourth-year bachelor Student in Computer Science & Technology at Shaanxi Technology and Science University(SUST).  I participated in the SUST's cooperation academic project with **Ulster University**, and expected **double Bachelor of Science** in July.2023
+During my period of undergraduate, I published **three journal articles** in Science Citation Index and Engineering Index. Among them, **as the first student author, I have published an article in SCI Q1(IF: 5.532) and an article in SCI Q2(IF: 2.838)**. Moreover, I have published an article in **EI(IF : 2.191)** as the second student author. 
 
-During my period of undergraduate, I published **three journal articles** in Science Citation Index and Engineering Index. Among them, **as the first student author, I have published an article in SCI Q1 and an article in SCI Q2**. Moreover, I have published an article in EI as the second student author. 
+I am a fourth-year bachelor Student in Computer Science & Technology at Shaanxi Technology and Science University(SUST).  I participated in the SUST's cooperation academic project with **Ulster University**, and expected **double Bachelor of Science** in July.2023
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

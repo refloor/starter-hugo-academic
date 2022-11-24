@@ -23,6 +23,6 @@ design:
   # font_size_max: 2.0
 ---
 
-Contributed to the Zhi Hu(Chinese Quora) Community by sharing  technical experience and knowledge on site via blogs which own **400 votes** and  **110 favorites** on average. {{< staticref "https://www.zhihu.com/people/bo-yu-92-76/posts" "newtab" >}}Website{{< /staticref >}}.
+Contributed to the Zhi Hu(Chinese Quora) Community by sharing  technical experience and knowledge on site via blogs which own **400 votes** and  **110 favorites** on average. {{< staticref "https://www.zhihu.com/people/bo-yu-92-76/posts" "newtab" >}}(website){{< /staticref >}}.
 
 **Pursue a PhD degree in Computer Science and make impactful contributions to my chosen academic fields.**
